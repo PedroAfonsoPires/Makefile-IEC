@@ -13,4 +13,4 @@ ultra:
 	@date
 
 mega:
-	@rm -f supe
+	@rm -f super
